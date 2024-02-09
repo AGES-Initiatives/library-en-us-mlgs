@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = properties_en_US_mlgs
+
+version.designation = "MLGS"
+version.name = "Monastery of the Lifegiving Spring."
+version.translator = "Translated by Nuns of the Monastery"
+
+version.notice1 = ""
+
+version.copyright1 = "Copyright © 2024 by Monastery of the Lifegiving Spring"
+version.copyright2 = "Used by permission."
+version.copyright3 = ""
+
+contact.address_1 = "Holy Monastery of the Theotokos the Lifegiving Spring"
+contact.address_2 = "38526 Dunlap Road - PO Box 549"
+contact.address_3 = "Dunlap, CA 93621"
+contact.phone = "(559) 338-3110"
+contact.email = "gerontissamarkella@gmail.com"
+
+deprecated.key = "This key is no longer used."
+media.key = "For media only."

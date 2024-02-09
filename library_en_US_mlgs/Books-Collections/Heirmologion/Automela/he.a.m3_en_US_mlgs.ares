@@ -1,0 +1,131 @@
+A_Resource_Whose_Name = he.a.m3_en_US_mlgs
+
+heAU.title = "Automela of Mode 3"
+
+heAU.ApostoloiEkPeraton.greekname = ""
+heAU.ApostoloiEkPeraton.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ApostoloiEkPeraton.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
+heAU.ApostoloiEkPeraton.name = "Apostles, you have assembled."
+heAU.ApostoloiEkPeraton.incipit = "Apostles, you have assembled…"
+heAU.ApostoloiEkPeratontext = ""
+
+heAU.EnPnevmatiToIero.greekname = ""
+heAU.EnPnevmatiToIero.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.EnPnevmatiToIero.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
+heAU.EnPnevmatiToIero.name = "The Elder in the Temple."
+heAU.EnPnevmatiToIero.incipit = "The Elder in the Temple…"
+heAU.EnPnevmatiToIerotext = ""
+
+heAU.EpefaniOSotir.greekname = ""
+heAU.EpefaniOSotir.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.EpefaniOSotir.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.EpefaniOSotir.notmetered = "N/M (Our Savior, grace and truth.)"
+heAU.EpefaniOSotir.name = "Our Savior, grace and truth."
+heAU.EpefaniOSotir.incipit = "Our Savior, grace and truth…"
+heAU.EpefaniOSotirtext = ""
+
+heAU.EpeskepsatoImas.greekname = ""
+heAU.EpeskepsatoImas.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.EpeskepsatoImas.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.EpeskepsatoImas.notmetered = "N/M (Our Savior from on high.)"
+heAU.EpeskepsatoImas.name = "Our Savior from on high."
+heAU.EpeskepsatoImas.incipit = "Our Savior from on high…"
+heAU.EpeskepsatoImastext = ""
+
+heAU.FosAnalloioton.greekname = ""
+heAU.FosAnalloioton.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.FosAnalloioton.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.FosAnalloioton.notmetered = "N/M (O Logos, light unaltered.)"
+heAU.FosAnalloioton.name = "O Logos, light unaltered."
+heAU.FosAnalloioton.incipit = "O Logos, light unaltered…"
+heAU.FosAnalloiotontext = ""
+
+heAU.IParthenosSimeron.greekname = ""
+heAU.IParthenosSimeron.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.IParthenosSimeron.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.IParthenosSimeron.notmetered = "N/M (On this day.)"
+heAU.IParthenosSimeron.name = "On this day."
+heAU.IParthenosSimeron.incipit = "On this day…"
+heAU.IParthenosSimerontext = ""
+
+heAU.MegaliTonMartyronSou.greekname = ""
+heAU.MegaliTonMartyronSou.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.MegaliTonMartyronSou.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.MegaliTonMartyronSou.notmetered = "N/M (The power of Your martyr Saints.)"
+heAU.MegaliTonMartyronSou.name = "The power of Your martyr Saints."
+heAU.MegaliTonMartyronSou.incipit = "The power of Your martyr Saints…"
+heAU.MegaliTonMartyronSoutext = ""
+
+heAU.MegaliTouStavrouSou.greekname = ""
+heAU.MegaliTouStavrouSou.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.MegaliTouStavrouSou.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.MegaliTouStavrouSou.notmetered = "N/M (The power of Your holy Cross.)"
+heAU.MegaliTouStavrouSou.name = "The power of Your holy Cross."
+heAU.MegaliTouStavrouSou.incipit = "The power of Your holy Cross…"
+heAU.MegaliTouStavrouSoutext = ""
+
+heAU.OOuranonToisAstrois.greekname = ""
+heAU.OOuranonToisAstrois.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OOuranonToisAstrois.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.OOuranonToisAstrois.notmetered = "N/M (Having embellished.)"
+heAU.OOuranonToisAstrois.name = "Having embellished heaven."
+heAU.OOuranonToisAstrois.incipit = "Having embellished heaven…"
+heAU.OOuranonToisAstroistext = ""
+
+heAU.SosonMeKyrie.greekname = ""
+heAU.SosonMeKyrie.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.SosonMeKyrie.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.SosonMeKyrie.notmetered = "N/M (Save me, O Lord.)"
+heAU.SosonMeKyrie.name = "Save me, O Lord."
+heAU.SosonMeKyrie.incipit = "Save me, O Lord…"
+heAU.SosonMeKyrietext = ""
+
+heAU.StavrofanosMoysis.greekname = ""
+heAU.StavrofanosMoysis.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.StavrofanosMoysis.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.StavrofanosMoysis.notmetered = "N/M (When Moses stood.)"
+heAU.StavrofanosMoysis.name = "When Moses stood."
+heAU.StavrofanosMoysis.incipit = "When Moses stood…"
+heAU.StavrofanosMoysistext = ""
+
+heAU.TheiasPisteos.greekname = ""
+heAU.TheiasPisteos.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TheiasPisteos.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.TheiasPisteos.notmetered = "N/M (Your confession.)"
+heAU.TheiasPisteos.name = "Your confession."
+heAU.TheiasPisteos.incipit = "Your confession…"
+heAU.TheiasPisteostext = ""
+
+heAU.TinOraiotita.greekname = ""
+heAU.TinOraiotita.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TinOraiotita.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.TinOraiotita.notmetered = "N/M (You were so beautiful.)"
+heAU.TinOraiotita.name = "You were so beautiful."
+heAU.TinOraiotita.incipit = "…"
+heAU.TinOraiotitatext = ""
+
+heAU.ToTypoTouStavrou.greekname = ""
+heAU.ToTypoTouStavrou.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ToTypoTouStavrou.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.ToTypoTouStavrou.notmetered = "N/M ()"
+heAU.ToTypoTouStavrou.name = ""
+heAU.ToTypoTouStavrou.incipit = "…"
+heAU.ToTypoTouStavroutext = ""
+
+heAU.TonListinAfthimeron.greekname = ""
+heAU.TonListinAfthimeron.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TonListinAfthimeron.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.TonListinAfthimeron.notmetered = "N/M (On the very same day.)"
+heAU.TonListinAfthimeron.name = "On the very same day."
+heAU.TonListinAfthimeron.incipit = "On the very same day…"
+heAU.TonListinAfthimerontext = ""
+
+heAU.TonNymfonaSouVlepo.greekname = ""
+heAU.TonNymfonaSouVlepo.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TonNymfonaSouVlepo.mode = miscellanea_en_US_mlgs.misc.Mode3
+heAU.TonNymfonaSouVlepo.notmetered = "N/M (O my Savior, now I see.)"
+heAU.TonNymfonaSouVlepo.name = "O my Savior, now I see."
+heAU.TonNymfonaSouVlepo.incipit = "O my Savior, now I see…"
+heAU.TonNymfonaSouVlepotext = ""

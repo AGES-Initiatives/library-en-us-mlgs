@@ -1,0 +1,657 @@
+A_Resource_Whose_Name = he.h.m6_en_US_mlgs
+
+heHE.AfrastonThavma.notmetered = "N/M (Ineffable wonder!)"
+heHE.AfrastonThavma.greekname = ""
+heHE.AfrastonThavma.name = "N/M (Ineffable wonder!)"
+heHE.AfrastonThavma.incipit = "Ineffable wonder!…"
+heHE.AfrastonThavma.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AfrastonThavma.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AfrastonThavma.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.AfrastonThavma.text = ""
+
+heHE.AfrastonThavmaEpiphany.notmetered = "N/M ()"
+heHE.AfrastonThavmaEpiphany.greekname = ""
+heHE.AfrastonThavmaEpiphany.name = ""
+heHE.AfrastonThavmaEpiphany.incipit = "…"
+heHE.AfrastonThavmaEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AfrastonThavmaEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AfrastonThavmaEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.AfrastonThavmaEpiphany.text = ""
+
+heHE.AkikoaKyrieTinAkoin.notmetered = "N/M ()"
+heHE.AkikoaKyrieTinAkoin.greekname = ""
+heHE.AkikoaKyrieTinAkoin.name = ""
+heHE.AkikoaKyrieTinAkoin.incipit = "…"
+heHE.AkikoaKyrieTinAkoin.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AkikoaKyrieTinAkoin.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AkikoaKyrieTinAkoin.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.AkikoaKyrieTinAkoin.text = ""
+
+heHE.AkikoenOProfitis.notmetered = "N/M (On hearing about Your advent.)"
+heHE.AkikoenOProfitis.greekname = ""
+heHE.AkikoenOProfitis.name = "On hearing about Your advent."
+heHE.AkikoenOProfitis.incipit = "On hearing about Your advent…"
+heHE.AkikoenOProfitis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AkikoenOProfitis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AkikoenOProfitis.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.AkikoenOProfitis.text = ""
+
+heHE.AporeiPasaGlossa.notmetered = "N/M (Every tongue.)"
+heHE.AporeiPasaGlossa.greekname = ""
+heHE.AporeiPasaGlossa.name = "Every tongue."
+heHE.AporeiPasaGlossa.incipit = "Every tongue…"
+heHE.AporeiPasaGlossa.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AporeiPasaGlossa.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AporeiPasaGlossa.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.AporeiPasaGlossa.text = ""
+
+heHE.AsporouSyllipseos.notmetered = "N/M (The birth is ineffable.)"
+heHE.AsporouSyllipseos.greekname = ""
+heHE.AsporouSyllipseos.name = "The birth is ineffable."
+heHE.AsporouSyllipseos.incipit = "The birth is ineffable…"
+heHE.AsporouSyllipseos.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AsporouSyllipseos.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AsporouSyllipseos.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.AsporouSyllipseos.text = ""
+
+heHE.AvyssosEschati.notmetered = "N/M (The lowest depth.)"
+heHE.AvyssosEschati.greekname = ""
+heHE.AvyssosEschati.name = "The lowest depth."
+heHE.AvyssosEschati.incipit = "The lowest depth…"
+heHE.AvyssosEschati.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.AvyssosEschati.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.AvyssosEschati.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.AvyssosEschati.text = ""
+
+heHE.ChristosMouDynamis.notmetered = "N/M (The holy Church of God.)"
+heHE.ChristosMouDynamis.greekname = ""
+heHE.ChristosMouDynamis.name = "The holy Church of God."
+heHE.ChristosMouDynamis.incipit = "The holy Church of God…"
+heHE.ChristosMouDynamis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ChristosMouDynamis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ChristosMouDynamis.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.ChristosMouDynamis.text = ""
+
+heHE.DrosovolonMenTinKaminon.notmetered = "N/M (In the furnace the Lord’s Angel.)"
+heHE.DrosovolonMenTinKaminon.greekname = ""
+heHE.DrosovolonMenTinKaminon.name = "In the furnace the Lord’s Angel."
+heHE.DrosovolonMenTinKaminon.incipit = "In the furnace the Lord’s Angel…"
+heHE.DrosovolonMenTinKaminon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.DrosovolonMenTinKaminon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.DrosovolonMenTinKaminon.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.DrosovolonMenTinKaminon.text = ""
+
+heHE.EkFlogosToisOsiois.notmetered = "N/M (From the flame.)"
+heHE.EkFlogosToisOsiois.greekname = ""
+heHE.EkFlogosToisOsiois.name = "From the flame."
+heHE.EkFlogosToisOsiois.incipit = "From the flame…"
+heHE.EkFlogosToisOsiois.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EkFlogosToisOsiois.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EkFlogosToisOsiois.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.EkFlogosToisOsiois.text = ""
+
+heHE.EkNyktosOrthrizonta.notmetered = "N/M (Early in the morning.)"
+heHE.EkNyktosOrthrizonta.greekname = ""
+heHE.EkNyktosOrthrizonta.name = "Early in the morning."
+heHE.EkNyktosOrthrizonta.incipit = "Early in the morning…"
+heHE.EkNyktosOrthrizonta.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EkNyktosOrthrizonta.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EkNyktosOrthrizonta.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.EkNyktosOrthrizonta.text = ""
+
+heHE.EkalypsenOuranous.notmetered = "N/M ()"
+heHE.EkalypsenOuranous.greekname = ""
+heHE.EkalypsenOuranous.name = ""
+heHE.EkalypsenOuranous.incipit = "…"
+heHE.EkalypsenOuranous.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EkalypsenOuranous.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EkalypsenOuranous.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.EkalypsenOuranous.text = ""
+
+heHE.EkstithiFrittonOurane.notmetered = "N/M (Heaven, be astonished.)"
+heHE.EkstithiFrittonOurane.greekname = ""
+heHE.EkstithiFrittonOurane.name = "Heaven, be astonished."
+heHE.EkstithiFrittonOurane.incipit = "Heaven, be astonished…"
+heHE.EkstithiFrittonOurane.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EkstithiFrittonOurane.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EkstithiFrittonOurane.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.EkstithiFrittonOurane.text = ""
+
+heHE.EkstithiFrittonOuraneEpiphany.notmetered = "N/M ()"
+heHE.EkstithiFrittonOuraneEpiphany.greekname = ""
+heHE.EkstithiFrittonOuraneEpiphany.name = ""
+heHE.EkstithiFrittonOuraneEpiphany.incipit = "…"
+heHE.EkstithiFrittonOuraneEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EkstithiFrittonOuraneEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EkstithiFrittonOuraneEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.EkstithiFrittonOuraneEpiphany.text = ""
+
+heHE.EnTiSterraTisPisteos.notmetered = "N/M ()"
+heHE.EnTiSterraTisPisteos.greekname = ""
+heHE.EnTiSterraTisPisteos.name = ""
+heHE.EnTiSterraTisPisteos.incipit = "…"
+heHE.EnTiSterraTisPisteos.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EnTiSterraTisPisteos.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EnTiSterraTisPisteos.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.EnTiSterraTisPisteos.text = ""
+
+heHE.EpiTinAsaleftonChriste.notmetered = "N/M ()"
+heHE.EpiTinAsaleftonChriste.greekname = ""
+heHE.EpiTinAsaleftonChriste.name = ""
+heHE.EpiTinAsaleftonChriste.incipit = "…"
+heHE.EpiTinAsaleftonChriste.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EpiTinAsaleftonChriste.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EpiTinAsaleftonChriste.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.EpiTinAsaleftonChriste.text = ""
+
+heHE.EvoisaEnOliKardiaMou.notmetered = "N/M (I cried aloud and shouted.)"
+heHE.EvoisaEnOliKardiaMou.greekname = ""
+heHE.EvoisaEnOliKardiaMou.name = "I cried aloud and shouted."
+heHE.EvoisaEnOliKardiaMou.incipit = "I cried aloud and shouted…"
+heHE.EvoisaEnOliKardiaMou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.EvoisaEnOliKardiaMou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.EvoisaEnOliKardiaMou.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.EvoisaEnOliKardiaMou.text = ""
+
+heHE.IToChaireDiAngelou.notmetered = "N/M (You received the joyful message.)"
+heHE.IToChaireDiAngelou.greekname = ""
+heHE.IToChaireDiAngelou.name = "You received the joyful message."
+heHE.IToChaireDiAngelou.incipit = "You received the joyful message…"
+heHE.IToChaireDiAngelou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.IToChaireDiAngelou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.IToChaireDiAngelou.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.IToChaireDiAngelou.text = ""
+
+heHE.IdeteIdete.notmetered = "N/M ()"
+heHE.IdeteIdete.greekname = ""
+heHE.IdeteIdete.name = ""
+heHE.IdeteIdete.incipit = "…"
+heHE.IdeteIdete.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.IdeteIdete.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.IdeteIdete.ode = miscellanea_en_US_mlgs.misc.Ode2
+heHE.IdeteIdete.text = ""
+
+heHE.ImartomenInomisamen.notmetered = "N/M (We sinned, O Lord.)"
+heHE.ImartomenInomisamen.greekname = ""
+heHE.ImartomenInomisamen.name = "We sinned, O Lord."
+heHE.ImartomenInomisamen.incipit = "We sinned, O Lord…"
+heHE.ImartomenInomisamen.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ImartomenInomisamen.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ImartomenInomisamen.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.ImartomenInomisamen.text = ""
+
+heHE.KymatiThalassis.notmetered = "N/M (He, who with a sea-wave.)"
+heHE.KymatiThalassis.greekname = ""
+heHE.KymatiThalassis.name = "He, who with a sea-wave."
+heHE.KymatiThalassis.incipit = "He, who with a sea-wave…"
+heHE.KymatiThalassis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.KymatiThalassis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.KymatiThalassis.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.KymatiThalassis.text = ""
+
+heHE.KymatiThalassisEpiphany.notmetered = "N/M ()"
+heHE.KymatiThalassisEpiphany.greekname = ""
+heHE.KymatiThalassisEpiphany.name = ""
+heHE.KymatiThalassisEpiphany.incipit = "…"
+heHE.KymatiThalassisEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.KymatiThalassisEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.KymatiThalassisEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.KymatiThalassisEpiphany.text = ""
+
+heHE.KyriosOnPanton.notmetered = "N/M (Lord of all and Creator.)"
+heHE.KyriosOnPanton.greekname = ""
+heHE.KyriosOnPanton.name = "Lord of all and Creator."
+heHE.KyriosOnPanton.incipit = "Lord of all and Creator…"
+heHE.KyriosOnPanton.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.KyriosOnPanton.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.KyriosOnPanton.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.KyriosOnPanton.text = ""
+
+heHE.KyriosOnPantonEpiphany.notmetered = "N/M ()"
+heHE.KyriosOnPantonEpiphany.greekname = ""
+heHE.KyriosOnPantonEpiphany.name = ""
+heHE.KyriosOnPantonEpiphany.incipit = "…"
+heHE.KyriosOnPantonEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.KyriosOnPantonEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.KyriosOnPantonEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.KyriosOnPantonEpiphany.text = ""
+
+heHE.MiEpodyrestheMatin.notmetered = "N/M ()"
+heHE.MiEpodyrestheMatin.greekname = ""
+heHE.MiEpodyrestheMatin.name = ""
+heHE.MiEpodyrestheMatin.incipit = "…"
+heHE.MiEpodyrestheMatin.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.MiEpodyrestheMatin.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.MiEpodyrestheMatin.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.MiEpodyrestheMatin.text = ""
+
+heHE.MiEpodyrouMouMiter.notmetered = "N/M (Weep not for Me, O Mother.)"
+heHE.MiEpodyrouMouMiter.greekname = ""
+heHE.MiEpodyrouMouMiter.name = "Weep not for Me, O Mother."
+heHE.MiEpodyrouMouMiter.incipit = "Weep not for Me, O Mother…"
+heHE.MiEpodyrouMouMiter.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.MiEpodyrouMouMiter.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.MiEpodyrouMouMiter.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.MiEpodyrouMouMiter.text = ""
+
+heHE.NomonPatroon.notmetered = "N/M (Braving all danger.)"
+heHE.NomonPatroon.greekname = ""
+heHE.NomonPatroon.name = "Braving all danger."
+heHE.NomonPatroon.incipit = "Braving all danger…"
+heHE.NomonPatroon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.NomonPatroon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.NomonPatroon.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.NomonPatroon.text = ""
+
+heHE.OAisthitosFarao.notmetered = "N/M ()"
+heHE.OAisthitosFarao.greekname = ""
+heHE.OAisthitosFarao.name = ""
+heHE.OAisthitosFarao.incipit = "…"
+heHE.OAisthitosFarao.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OAisthitosFarao.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OAisthitosFarao.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.OAisthitosFarao.text = ""
+
+heHE.OToFosAnatellon.notmetered = "N/M ()"
+heHE.OToFosAnatellon.greekname = ""
+heHE.OToFosAnatellon.name = ""
+heHE.OToFosAnatellon.incipit = "…"
+heHE.OToFosAnatellon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OToFosAnatellon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OToFosAnatellon.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.OToFosAnatellon.text = ""
+
+heHE.OTonOsionSouPaidon.notmetered = "N/M ()"
+heHE.OTonOsionSouPaidon.greekname = ""
+heHE.OTonOsionSouPaidon.name = ""
+heHE.OTonOsionSouPaidon.incipit = "…"
+heHE.OTonOsionSouPaidon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OTonOsionSouPaidon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OTonOsionSouPaidon.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.OTonOsionSouPaidon.text = ""
+
+heHE.OiOsioiSouPaides.notmetered = "N/M ()"
+heHE.OiOsioiSouPaides.greekname = ""
+heHE.OiOsioiSouPaides.name = ""
+heHE.OiOsioiSouPaides.incipit = "…"
+heHE.OiOsioiSouPaides.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OiOsioiSouPaides.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OiOsioiSouPaides.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.OiOsioiSouPaides.text = ""
+
+heHE.OiPaidesEnVavyloni.notmetered = "N/M (In Babylon those Servants.)"
+heHE.OiPaidesEnVavyloni.greekname = ""
+heHE.OiPaidesEnVavyloni.name = "In Babylon those Servants."
+heHE.OiPaidesEnVavyloni.incipit = "In Babylon those Servants…"
+heHE.OiPaidesEnVavyloni.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OiPaidesEnVavyloni.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OiPaidesEnVavyloni.ode = miscellanea_en_US_mlgs.misc.Ode7
+heHE.OiPaidesEnVavyloni.text = ""
+
+heHE.OnStratiaiOuranon.notmetered = "N/M (Him whom the hosts.)"
+heHE.OnStratiaiOuranon.greekname = ""
+heHE.OnStratiaiOuranon.name = "Him whom the hosts."
+heHE.OnStratiaiOuranon.incipit = "Him whom the hosts…"
+heHE.OnStratiaiOuranon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OnStratiaiOuranon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OnStratiaiOuranon.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.OnStratiaiOuranon.text = ""
+
+heHE.OsEnIpeiroPezefsas.notmetered = "N/M (When they had walked.)"
+heHE.OsEnIpeiroPezefsas.greekname = ""
+heHE.OsEnIpeiroPezefsas.name = "When they had walked."
+heHE.OsEnIpeiroPezefsas.incipit = "When they had walked…"
+heHE.OsEnIpeiroPezefsas.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OsEnIpeiroPezefsas.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OsEnIpeiroPezefsas.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.OsEnIpeiroPezefsas.text = ""
+
+heHE.OukEstinAgios.notmetered = "N/M (No one is holy.)"
+heHE.OukEstinAgios.greekname = ""
+heHE.OukEstinAgios.name = "No one is holy."
+heHE.OukEstinAgios.incipit = "No one is holy like the Lord…"
+heHE.OukEstinAgios.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.OukEstinAgios.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.OukEstinAgios.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.OukEstinAgios.text = ""
+
+heHE.ProkatidonOProfitis.notmetered = "N/M (When Habakkuk the Prophet.)"
+heHE.ProkatidonOProfitis.greekname = ""
+heHE.ProkatidonOProfitis.name = "When Habakkuk the Prophet."
+heHE.ProkatidonOProfitis.incipit = "When Habakkuk the Prophet…"
+heHE.ProkatidonOProfitis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ProkatidonOProfitis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ProkatidonOProfitis.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.ProkatidonOProfitis.text = ""
+
+heHE.ProkatidonOProfitisEpiphany.notmetered = "N/M ()"
+heHE.ProkatidonOProfitisEpiphany.greekname = ""
+heHE.ProkatidonOProfitisEpiphany.name = ""
+heHE.ProkatidonOProfitisEpiphany.incipit = "…"
+heHE.ProkatidonOProfitisEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ProkatidonOProfitisEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ProkatidonOProfitisEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.ProkatidonOProfitisEpiphany.text = ""
+
+heHE.ProsSeOrthrizo.notmetered = "N/M (Early in the morning.)"
+heHE.ProsSeOrthrizo.greekname = ""
+heHE.ProsSeOrthrizo.name = "Early in the morning."
+heHE.ProsSeOrthrizo.incipit = "Early in the morning…"
+heHE.ProsSeOrthrizo.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ProsSeOrthrizo.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ProsSeOrthrizo.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.ProsSeOrthrizo.text = ""
+
+heHE.ProsSeOrthrizoEpiphany.notmetered = "N/M (Early in the morning.)"
+heHE.ProsSeOrthrizoEpiphany.greekname = ""
+heHE.ProsSeOrthrizoEpiphany.name = "Early in the morning."
+heHE.ProsSeOrthrizoEpiphany.incipit = "…"
+heHE.ProsSeOrthrizoEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ProsSeOrthrizoEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ProsSeOrthrizoEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.ProsSeOrthrizoEpiphany.text = ""
+
+heHE.ProsecheOurane.notmetered = "N/M ()"
+heHE.ProsecheOurane.greekname = ""
+heHE.ProsecheOurane.name = ""
+heHE.ProsecheOurane.incipit = "…"
+heHE.ProsecheOurane.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ProsecheOurane.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ProsecheOurane.ode = miscellanea_en_US_mlgs.misc.Ode2
+heHE.ProsecheOurane.text = ""
+
+heHE.SeTonEpiYdaton.notmetered = "N/M (When creation beheld You.)"
+heHE.SeTonEpiYdaton.greekname = ""
+heHE.SeTonEpiYdaton.name = "When creation beheld You."
+heHE.SeTonEpiYdaton.incipit = "When creation beheld You…"
+heHE.SeTonEpiYdaton.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.SeTonEpiYdaton.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.SeTonEpiYdaton.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.SeTonEpiYdaton.text = ""
+
+heHE.SeTonEpiYdatonEpiphany.notmetered = "N/M ()"
+heHE.SeTonEpiYdatonEpiphany.greekname = ""
+heHE.SeTonEpiYdatonEpiphany.name = ""
+heHE.SeTonEpiYdatonEpiphany.incipit = "…"
+heHE.SeTonEpiYdatonEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.SeTonEpiYdatonEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.SeTonEpiYdatonEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.SeTonEpiYdatonEpiphany.text = ""
+
+heHE.StereosonKyrie.notmetered = "N/M (Establish upon the rock.)"
+heHE.StereosonKyrie.greekname = ""
+heHE.StereosonKyrie.name = "Establish upon the rock."
+heHE.StereosonKyrie.incipit = "Establish upon the rock…"
+heHE.StereosonKyrie.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.StereosonKyrie.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.StereosonKyrie.ode = miscellanea_en_US_mlgs.misc.Ode3
+heHE.StereosonKyrie.text = ""
+
+heHE.StilinKakiasAntitheou.notmetered = "N/M ()"
+heHE.StilinKakiasAntitheou.greekname = ""
+heHE.StilinKakiasAntitheou.name = ""
+heHE.StilinKakiasAntitheou.incipit = "…"
+heHE.StilinKakiasAntitheou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.StilinKakiasAntitheou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.StilinKakiasAntitheou.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.StilinKakiasAntitheou.text = ""
+
+heHE.StilinKakiasTouDeinou.notmetered = "N/M ()"
+heHE.StilinKakiasTouDeinou.greekname = ""
+heHE.StilinKakiasTouDeinou.name = ""
+heHE.StilinKakiasTouDeinou.incipit = "…"
+heHE.StilinKakiasTouDeinou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.StilinKakiasTouDeinou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.StilinKakiasTouDeinou.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.StilinKakiasTouDeinou.text = ""
+
+heHE.SyneschethiAllOuKateschethi.notmetered = "N/M (Prophet Jonah was in.)"
+heHE.SyneschethiAllOuKateschethi.greekname = ""
+heHE.SyneschethiAllOuKateschethi.name = "Prophet Jonah was in."
+heHE.SyneschethiAllOuKateschethi.incipit = "Prophet Jonah was in…"
+heHE.SyneschethiAllOuKateschethi.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.SyneschethiAllOuKateschethi.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.SyneschethiAllOuKateschethi.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.SyneschethiAllOuKateschethi.text = ""
+
+heHE.SyneschethiAllOuKateschethiEpiphany.notmetered = "N/M (.)"
+heHE.SyneschethiAllOuKateschethiEpiphany.greekname = ""
+heHE.SyneschethiAllOuKateschethiEpiphany.name = ""
+heHE.SyneschethiAllOuKateschethiEpiphany.incipit = "…"
+heHE.SyneschethiAllOuKateschethiEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.SyneschethiAllOuKateschethiEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.SyneschethiAllOuKateschethiEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.SyneschethiAllOuKateschethiEpiphany.text = ""
+
+heHE.TheofaneiasSouChriste.notmetered = "N/M (Prophet Isaiah once beheld.)"
+heHE.TheofaneiasSouChriste.greekname = ""
+heHE.TheofaneiasSouChriste.name = "Prophet Isaiah once beheld."
+heHE.TheofaneiasSouChriste.incipit = "Prophet Isaiah once beheld…"
+heHE.TheofaneiasSouChriste.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TheofaneiasSouChriste.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TheofaneiasSouChriste.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.TheofaneiasSouChriste.text = ""
+
+heHE.TheofaneiasSouChristeEpiphany.notmetered = "N/M ()"
+heHE.TheofaneiasSouChristeEpiphany.greekname = ""
+heHE.TheofaneiasSouChristeEpiphany.name = ""
+heHE.TheofaneiasSouChristeEpiphany.incipit = "…"
+heHE.TheofaneiasSouChristeEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TheofaneiasSouChristeEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TheofaneiasSouChristeEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.TheofaneiasSouChristeEpiphany.text = ""
+
+heHE.TheonAnthropois.notmetered = "N/M (It is impossible.)"
+heHE.TheonAnthropois.greekname = ""
+heHE.TheonAnthropois.name = "It is impossible."
+heHE.TheonAnthropois.incipit = "It is impossible…"
+heHE.TheonAnthropois.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TheonAnthropois.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TheonAnthropois.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.TheonAnthropois.text = ""
+
+heHE.TheonPateraDimiourgon.notmetered = "N/M (The three young men.)"
+heHE.TheonPateraDimiourgon.greekname = ""
+heHE.TheonPateraDimiourgon.name = "The three young men."
+heHE.TheonPateraDimiourgon.incipit = "…"
+heHE.TheonPateraDimiourgon.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TheonPateraDimiourgon.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TheonPateraDimiourgon.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.TheonPateraDimiourgon.text = ""
+
+heHE.TinEnStavroSou.notmetered = "N/M (When he foresaw.)"
+heHE.TinEnStavroSou.greekname = ""
+heHE.TinEnStavroSou.name = "When he foresaw."
+heHE.TinEnStavroSou.incipit = "When he foresaw…"
+heHE.TinEnStavroSou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TinEnStavroSou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TinEnStavroSou.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.TinEnStavroSou.text = ""
+
+heHE.TinProsToBaptismaSou.notmetered = "N/M ()"
+heHE.TinProsToBaptismaSou.greekname = ""
+heHE.TinProsToBaptismaSou.name = ""
+heHE.TinProsToBaptismaSou.incipit = "…"
+heHE.TinProsToBaptismaSou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TinProsToBaptismaSou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TinProsToBaptismaSou.ode = miscellanea_en_US_mlgs.misc.Ode4
+heHE.TinProsToBaptismaSou.text = ""
+
+heHE.TinTimioteran.notmetered = "N/M (Greater in honor.)"
+heHE.TinTimioteran.greekname = ""
+heHE.TinTimioteran.name = "Greater in honor."
+heHE.TinTimioteran.incipit = "Greater in honor…"
+heHE.TinTimioteran.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TinTimioteran.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TinTimioteran.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.TinTimioteran.text = ""
+
+heHE.TmitheisiTmatai.notmetered = "N/M (The Red Sea was cut.)"
+heHE.TmitheisiTmatai.greekname = ""
+heHE.TmitheisiTmatai.name = "The Red Sea was cut."
+heHE.TmitheisiTmatai.incipit = "The Red Sea was cut…"
+heHE.TmitheisiTmatai.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TmitheisiTmatai.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TmitheisiTmatai.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.TmitheisiTmatai.text = ""
+
+heHE.ToKiteiKatapotheis.notmetered = "N/M ()"
+heHE.ToKiteiKatapotheis.greekname = ""
+heHE.ToKiteiKatapotheis.name = ""
+heHE.ToKiteiKatapotheis.incipit = "…"
+heHE.ToKiteiKatapotheis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ToKiteiKatapotheis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ToKiteiKatapotheis.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.ToKiteiKatapotheis.text = ""
+
+heHE.ToSyndesmoTisAgapis.notmetered = "N/M (Once the Apostles.)"
+heHE.ToSyndesmoTisAgapis.greekname = ""
+heHE.ToSyndesmoTisAgapis.name = "Once the Apostles."
+heHE.ToSyndesmoTisAgapis.incipit = "Once the Apostles…"
+heHE.ToSyndesmoTisAgapis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ToSyndesmoTisAgapis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ToSyndesmoTisAgapis.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.ToSyndesmoTisAgapis.text = ""
+
+heHE.ToSyndesmoTisDeilias.notmetered = "N/M ()"
+heHE.ToSyndesmoTisDeilias.greekname = ""
+heHE.ToSyndesmoTisDeilias.name = ""
+heHE.ToSyndesmoTisDeilias.incipit = "…"
+heHE.ToSyndesmoTisDeilias.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ToSyndesmoTisDeilias.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ToSyndesmoTisDeilias.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.ToSyndesmoTisDeilias.text = ""
+
+heHE.ToTheioFengeiSou.notmetered = "N/M (With Your divine light.)"
+heHE.ToTheioFengeiSou.greekname = ""
+heHE.ToTheioFengeiSou.name = "With Your divine light."
+heHE.ToTheioFengeiSou.incipit = "With Your divine light…"
+heHE.ToTheioFengeiSou.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.ToTheioFengeiSou.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.ToTheioFengeiSou.ode = miscellanea_en_US_mlgs.misc.Ode5
+heHE.ToTheioFengeiSou.text = ""
+
+heHE.TonPaidonTinOdin.notmetered = "N/M ()"
+heHE.TonPaidonTinOdin.greekname = ""
+heHE.TonPaidonTinOdin.name = ""
+heHE.TonPaidonTinOdin.incipit = "…"
+heHE.TonPaidonTinOdin.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TonPaidonTinOdin.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TonPaidonTinOdin.ode = miscellanea_en_US_mlgs.misc.Ode8
+heHE.TonPaidonTinOdin.text = ""
+
+heHE.TouViouTinThalassan.notmetered = "N/M (I see when my life.)"
+heHE.TouViouTinThalassan.greekname = ""
+heHE.TouViouTinThalassan.name = "I see when my life."
+heHE.TouViouTinThalassan.incipit = "I see when my life…"
+heHE.TouViouTinThalassan.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.TouViouTinThalassan.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.TouViouTinThalassan.ode = miscellanea_en_US_mlgs.misc.Ode6
+heHE.TouViouTinThalassan.text = ""
+
+heHE.VoithosKaiSkepastis.notmetered = "N/M (He became for me a helper.)"
+heHE.VoithosKaiSkepastis.greekname = ""
+heHE.VoithosKaiSkepastis.name = "He became for me a helper."
+heHE.VoithosKaiSkepastis.incipit = "He became for me a helper…"
+heHE.VoithosKaiSkepastis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.VoithosKaiSkepastis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.VoithosKaiSkepastis.ode = miscellanea_en_US_mlgs.misc.Ode1
+heHE.VoithosKaiSkepastis.text = ""
+
+heHE.XeniasDespotikis.notmetered = "N/M (Come, believers, let us enjoy.)"
+heHE.XeniasDespotikis.greekname = ""
+heHE.XeniasDespotikis.name = "Come, believers, let us enjoy."
+heHE.XeniasDespotikis.incipit = "Come, believers, let us enjoy…"
+heHE.XeniasDespotikis.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.XeniasDespotikis.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.XeniasDespotikis.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.XeniasDespotikis.text = ""
+
+heHE.XeniasDespotikisEpiphany.notmetered = "N/M ()"
+heHE.XeniasDespotikisEpiphany.greekname = ""
+heHE.XeniasDespotikisEpiphany.name = ""
+heHE.XeniasDespotikisEpiphany.incipit = "…"
+heHE.XeniasDespotikisEpiphany.melody = miscellanea_en_US_mlgs.misc.Heirmos
+heHE.XeniasDespotikisEpiphany.mode = miscellanea_en_US_mlgs.misc.Mode6
+heHE.XeniasDespotikisEpiphany.ode = miscellanea_en_US_mlgs.misc.Ode9
+heHE.XeniasDespotikisEpiphany.text = ""
+
+heHE.AfrastonThavma_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.AfrastonThavma_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.EkstithiFrittonOurane_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.KymatiThalassis_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.KymatiThalassis_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.KyriosOnPanton_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.KyriosOnPanton_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.ProkatidonOProfitis_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.ProsSeOrthrizo_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.SeTonEpiYdaton_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.SyneschethiAllOuKateschethi_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.TheofaneiasSouChriste_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.text = properties_en_US_mlgs.deprecated.key
+
+heHE.XeniasDespotikis_Epiphany.greekname = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.name = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.incipit = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.melody = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.mode = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.ode = properties_en_US_mlgs.deprecated.key
+heHE.XeniasDespotikis_Epiphany.text = properties_en_US_mlgs.deprecated.key

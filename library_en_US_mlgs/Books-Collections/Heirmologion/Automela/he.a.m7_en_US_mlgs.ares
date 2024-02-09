@@ -1,0 +1,67 @@
+A_Resource_Whose_Name = he.a.m7_en_US_mlgs
+
+heAU.title = "Automela of Grave Mode"
+
+heAU.KatafronisantesPanton.greekname = ""
+heAU.KatafronisantesPanton.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.KatafronisantesPanton.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
+heAU.KatafronisantesPanton.name = "When you had wisely."
+heAU.KatafronisantesPanton.incipit = "When you had wisely…"
+heAU.KatafronisantesPantontext = ""
+
+heAU.ODiEmeAnaschomenos.greekname = ""
+heAU.ODiEmeAnaschomenos.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ODiEmeAnaschomenos.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.ODiEmeAnaschomenos.notmetered = "N/M (O Christ God.)"
+heAU.ODiEmeAnaschomenos.name = ""
+heAU.ODiEmeAnaschomenos.incipit = "…"
+heAU.ODiEmeAnaschomenostext = ""
+
+heAU.OsEchousaToSympathes.greekname = ""
+heAU.OsEchousaToSympathes.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OsEchousaToSympathes.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.OsEchousaToSympathes.notmetered = "N/M ()"
+heAU.OsEchousaToSympathes.name = ""
+heAU.OsEchousaToSympathes.incipit = "…"
+heAU.OsEchousaToSympathestext = ""
+
+heAU.OuketiFloginiRomfaia.greekname = ""
+heAU.OuketiFloginiRomfaia.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OuketiFloginiRomfaia.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
+heAU.OuketiFloginiRomfaia.name = "The fiery sword."
+heAU.OuketiFloginiRomfaia.incipit = "The fiery sword…"
+heAU.OuketiFloginiRomfaiatext = ""
+
+heAU.OukEtiKolyometha.greekname = ""
+heAU.OukEtiKolyometha.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OukEtiKolyometha.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
+heAU.OukEtiKolyometha.name = "No longer are we barred."
+heAU.OukEtiKolyometha.incipit = "No longer are we barred…"
+heAU.OukEtiKolyomethatext = ""
+
+heAU.PyrosFoteinoteron.greekname = ""
+heAU.PyrosFoteinoteron.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.PyrosFoteinoteron.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
+heAU.PyrosFoteinoteron.name = "More dazzling than flame."
+heAU.PyrosFoteinoteron.incipit = "…"
+heAU.PyrosFoteinoterontext = ""
+
+heAU.SimeronGrigoreiOIoudas.greekname = ""
+heAU.SimeronGrigoreiOIoudas.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
+heAU.SimeronGrigoreiOIoudas.name = "Judas today is vigilant."
+heAU.SimeronGrigoreiOIoudas.incipit = "Judas today is vigilant…"
+heAU.SimeronGrigoreiOIoudastext = ""
+
+heAU.XylonZois.greekname = ""
+heAU.XylonZois.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.XylonZois.mode = miscellanea_en_US_mlgs.misc.Mode7
+heAU.XylonZois.notmetered = "N/M (The tree of life.)"
+heAU.XylonZois.name = "The tree of life."
+heAU.XylonZois.incipit = "The tree of life…"
+heAU.XylonZoistext = ""

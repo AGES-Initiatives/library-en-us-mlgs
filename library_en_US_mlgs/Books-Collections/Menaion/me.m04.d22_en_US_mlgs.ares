@@ -1,0 +1,217 @@
+A_Resource_Whose_Name = me.m04.d22_en_US_mlgs
+
+meMA.Ode1C11.ode = miscellanea_en_US_mlgs.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_mlgs.heHE.ToOdigisantiPalai.greekname
+meMA.Ode1C11.melody = he.h.m4_en_US_mlgs.heHE.ToOdigisantiPalai.notmetered
+meMA.Ode1C11.incipit = "The noetic Sun…"
+meMA.Ode1C11.text = "The noetic Sun, Christ our God, has made you a shining star in the firmament of the Church, O wise father. You ceaselessly glow with the light of miracles, ever dispelling the darkness of our passions."
+
+meMA.Ode1C12.ode = miscellanea_en_US_mlgs.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_mlgs.heHE.ToOdigisantiPalai.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "The Creator sanctified you while you were yet in your mother’s womb, as He did the prophet Jeremiah. The Holy Spirit made you His vessel, and so you terrify evil spirits and drive them away with ease, O holy father Theodore."
+
+meMA.Ode1C13.ode = miscellanea_en_US_mlgs.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_mlgs.heHE.ToOdigisantiPalai.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "By the sweat of your ascetic discipline, O father Theodore, you extinguished the flame of the passions; your prayers, like torrential rain, produced streams of miracles, and quenched the burning heat of illnesses."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_mlgs.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_mlgs.heHE.ToOdigisantiPalai.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "Like a fine cluster of grapes from an uncultivated vine, Christ came forth from your womb, O virgin Mother. He offers the sweet wine of forgiveness that gladdens the hearts of all, who were formerly delirious and drunk with wickedness."
+
+meMA.Ode3C11.ode = miscellanea_en_US_mlgs.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_mlgs.heHE.OStereonVrontin.greekname
+meMA.Ode3C11.melody = he.h.m4_en_US_mlgs.heHE.OStereonVrontin.notmetered
+meMA.Ode3C11.incipit = "How marvelous was your life…"
+meMA.Ode3C11.text = "How marvelous was your life, O godly-minded father! How awesome are your miracles! You focused on ascending straight to God on high, and acquired great intimacy with Him, most glorious Theodore."
+
+meMA.Ode3C12.ode = miscellanea_en_US_mlgs.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_mlgs.heHE.OStereonVrontin.notmetered
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "You curbed the vehement force of the passions by giving yourself over to toil and labor; you destroyed the deceitful traps of the demons by the power of the all-holy Spirit."
+
+meMA.Ode3C13.ode = miscellanea_en_US_mlgs.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_mlgs.heHE.OStereonVrontin.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "All of us who extol you in hymns, and faithfully venerate your holy relics, draw from the ocean of your miracles. We find a treasure of healings, and receive abundant gifts from you, O Theodore."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_mlgs.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_mlgs.heHE.OStereonVrontin.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "Laws of nature were altered in you, O Virgin. You have given birth to the Creator and Master, supernaturally and beyond explanation. Entreat Him fervently for the salvation of your servants."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.greekname
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.notmetered
+meMA.Ode3Kathisma1.incipit = "…"
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaT.incipit = "…"
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.incipit = "…"
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = miscellanea_en_US_mlgs.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_mlgs.heHE.EisakikoaOTheos.greekname
+meMA.Ode4C11.melody = he.h.m4_en_US_mlgs.heHE.EisakikoaOTheos.notmetered
+meMA.Ode4C11.incipit = "You are truly like a river…"
+meMA.Ode4C11.text = "You are truly like a river flowing with divine water, filled with the gifts of the Holy Spirit, by which you water the entire Church, O father Theodore."
+
+meMA.Ode4C12.ode = miscellanea_en_US_mlgs.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_mlgs.heHE.EisakikoaOTheos.notmetered
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "Your unceasing struggles were like a rope that you took in hand to hang our enemy the devil, and you annihilated all his wicked armies by the sword of your prayers, all-blessed Theodore."
+
+meMA.Ode4C13.ode = miscellanea_en_US_mlgs.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_mlgs.heHE.EisakikoaOTheos.notmetered
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "Meditating on the law of God, you flourished like a divine tree, watered by streams of ascetic discipline, and so you produced the abundant fruit of virtue, O Theodore."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_mlgs.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_mlgs.heHE.EisakikoaOTheos.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "Truly you are blessed by all generations, O virgin Mother. You gave birth to Christ, the One who makes blessed those who practice His commandments and beatitudes, O undefiled Lady."
+
+meMA.Ode5C11.ode = miscellanea_en_US_mlgs.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_mlgs.heHE.AnateilonMoiKyrie.greekname
+meMA.Ode5C11.melody = he.h.m4_en_US_mlgs.heHE.AnateilonMoiKyrie.notmetered
+meMA.Ode5C11.incipit = "The eternal Light…"
+meMA.Ode5C11.text = "The eternal Light has set you, O Theodore, as a lantern on a lampstand, a vigil lamp that never goes out. You shine upon us, who are dominated by our dark and dreary passions, and enfeebled by our many dismal sins."
+
+meMA.Ode5C12.ode = miscellanea_en_US_mlgs.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_mlgs.heHE.AnateilonMoiKyrie.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "From the tender years of your childhood, holy father, George the great martyr often appeared to you and guided you. You imitated his virtues, his eagerness in all things, and his deep affection for the Lord."
+
+meMA.Ode5C13.ode = miscellanea_en_US_mlgs.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_mlgs.heHE.AnateilonMoiKyrie.notmetered
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = "Your self-control was genuine, your patience incomparable, your faith, hope, and humility were superhuman; accordingly, the grace you received from God was extraordinary."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_mlgs.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_mlgs.heHE.AnateilonMoiKyrie.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "All-immaculate Virgin, my mind is parched and withered by the burning heat of sin; I pray you water it with refreshing droplets of your mercy. Relight the extinguished lantern of my soul, O gateway of the divine light."
+
+meMA.Ode6C11.ode = miscellanea_en_US_mlgs.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_mlgs.heHE.ZaliMeLogismon.greekname
+meMA.Ode6C11.melody = he.h.m4_en_US_mlgs.heHE.ZaliMeLogismon.notmetered
+meMA.Ode6C11.incipit = "You shunned the cares…"
+meMA.Ode6C11.text = "You shunned the cares of earthly life, because all your soul’s desire was set upon your Master; so you delighted in His divine beauty and the light of His countenance, O holy father."
+
+meMA.Ode6C12.ode = miscellanea_en_US_mlgs.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_mlgs.heHE.ZaliMeLogismon.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "Standing inside your ascetic cage and freezing from the cold, you melted the icy chill of sin; you endured the beating winds like one bodiless, O father, warmed and protected by divine grace."
+
+meMA.Ode6C13.ode = miscellanea_en_US_mlgs.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_mlgs.heHE.ZaliMeLogismon.notmetered
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "As we venerate your holy relics and honor you with love, O hierarch and venerable wonderworker, we are filled with the fragrance of divine knowledge, and delivered from the stench of our passions."
+
+meMA.Ode6C1T.ode = miscellanea_en_US_mlgs.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_mlgs.heHE.ZaliMeLogismon.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "The violent storm of my passions agitates me; my heart is sinking in an ocean of despair. O Virgin, who gave birth to Christ, our Savior and guide, I pray you, rescue me and save me."
+
+meMA.Ode7C11.ode = miscellanea_en_US_mlgs.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_mlgs.heHE.TonEnKaminoTouPyros.greekname
+meMA.Ode7C11.melody = he.h.m4_en_US_mlgs.heHE.TonEnKaminoTouPyros.notmetered
+meMA.Ode7C11.incipit = "As a true and faithful…"
+meMA.Ode7C11.text = "As a true and faithful hierarch, you offered the bloodless sacrifice through the Holy Spirit, and by putting your passions to death, you also offered yourself as a fragrant sacrifice to the Master, O all-blessed father."
+
+meMA.Ode7C12.ode = miscellanea_en_US_mlgs.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_mlgs.heHE.TonEnKaminoTouPyros.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "Just as you extinguished the fire of sensual pleasure by the sweat of your ascetic discipline, so also, when the earth was parched with drought, by your prayers you opened the heavens and brought downpours of rain, like Elijah the prophet, O holy wonderworker."
+
+meMA.Ode7C13.ode = miscellanea_en_US_mlgs.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_mlgs.heHE.TonEnKaminoTouPyros.notmetered
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = "You were sanctified from your mother’s womb, and by the power of your unrelenting prayers, you turned barren women into mothers of many children; you gave sight to the blind, and enabled the lame to walk, thrice-blessed father Theodore."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_mlgs.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_mlgs.heHE.TonEnKaminoTouPyros.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "O Virgin Theotokos, you are the beauty of Jacob. God chose you for himself, and He came and dwelt within you, preserving you a virgin after childbirth, just as before."
+
+meMA.Ode8C11.ode = miscellanea_en_US_mlgs.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_mlgs.heHE.GiKaiPantaTaEnAfti.greekname
+meMA.Ode8C11.melody = he.h.m4_en_US_mlgs.heHE.GiKaiPantaTaEnAfti.notmetered
+meMA.Ode8C11.incipit = "You built the house…"
+meMA.Ode8C11.text = "You built the house of your soul on the rock of patience, and so you did not give way when attacked by the adversary, nor were you shaken by the assaults of the enemy. You strove to reach the divine heights, and now you intercede for us who honor you faithfully."
+
+meMA.Ode8C12.ode = miscellanea_en_US_mlgs.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_mlgs.heHE.GiKaiPantaTaEnAfti.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "A spiritual river of healing and cures streams from your reliquary, O great wonderworker Theodore. It washes away the stains of passions from our souls, cleanses the infections and festering wounds of our bodies, and waters the hearts of the faithful, as they honor you with love."
+
+meMA.Ode8C13.ode = miscellanea_en_US_mlgs.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_mlgs.heHE.GiKaiPantaTaEnAfti.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "Let us all extol Theodore the great, teacher of Christ’s mysteries, whose name denotes the gifts of God. Truly, he is a model for ascetics, the glory of clergy, a sacred vessel of the fragrance of the Holy Spirit, and he pours forth miracles like a fountain."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_mlgs.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_mlgs.heHE.GiKaiPantaTaEnAfti.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "The sacred voices of the divine prophets proclaimed you symbolically gate, mountain, tabernacle, and divine cloud of light from which Christ the Light-giver shone forth, as the Sun, enlightening those who sat in the shadow of darkness."
+
+meMA.Ode9C11.ode = miscellanea_en_US_mlgs.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_mlgs.heHE.OtiEpoiiseMoiMegaleia.greekname
+meMA.Ode9C11.melody = he.h.m4_en_US_mlgs.heHE.OtiEpoiiseMoiMegaleia.notmetered
+meMA.Ode9C11.incipit = "Like morning radiance…"
+meMA.Ode9C11.text = "Like morning radiance, like noonday splendor, your feast has shone forth, illuminating the hearts of the faithful who extol your venerable labors, O wise father Theodore."
+
+meMA.Ode9C12.ode = miscellanea_en_US_mlgs.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_mlgs.heHE.OtiEpoiiseMoiMegaleia.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "Living now in heaven with angels, apostles, martyrs, hierarchs, ascetics, and righteous saints, you ever intercede with Christ for us, O father."
+
+meMA.Ode9C13.ode = miscellanea_en_US_mlgs.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_mlgs.heHE.OtiEpoiiseMoiMegaleia.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "O wise father, your holy reliquary became like another pool of Siloam. For you continue to work miracles even after your death, and sanctify the souls of the faithful who draw near to you, honoring your memory."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_mlgs.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_mlgs.misc.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_mlgs.heHE.OtiEpoiiseMoiMegaleia.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "Awesome was your childbirth, O Theotokos, Mother of God. Therefore from generation to generation we call you blessed and glorify you faithfully, now and forever and to the ages. Amen."
