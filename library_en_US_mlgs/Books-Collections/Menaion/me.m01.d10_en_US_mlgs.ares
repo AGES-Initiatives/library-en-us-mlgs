@@ -1,0 +1,12 @@
+A_Resource_Whose_Name = me.m01.d10_en_US_mlgs
+
+meVE.SticBoth.mode = miscellanea_en_US_mlgs.misc.Mode4
+meVE.SticBoth.melody = ""
+meVE.SticBoth.incipit = me.m01.d06_en_US_mlgs.meVE.Lity5.incipit
+meVE.SticBoth.text = me.m01.d06_en_US_mlgs.meVE.Lity5.text
+
+meVE.AposBoth.mode = miscellanea_en_US_mlgs.misc.Mode4
+meVE.AposBoth.melody = ""
+meVE.AposBoth.incipit = me.m01.d06_en_US_mlgs.meVE.Lity2.incipit
+meVE.AposBoth.text = me.m01.d06_en_US_mlgs.meVE.Lity2.text
+
