@@ -17,4 +17,5 @@ contact.phone = "(559) 338-3110"
 contact.email = "gerontissamarkella@gmail.com"
 
 deprecated.key = "This key is no longer used."
+empty.key = ""
 media.key = "For media only."
