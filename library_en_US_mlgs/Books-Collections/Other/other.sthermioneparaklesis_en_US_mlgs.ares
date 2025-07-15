@@ -1,0 +1,287 @@
+A_Resource_Whose_Name = other.sthermioneparaklesis_en_US_mlgs
+
+hoCA.title = "SUPPLICATION SERVICE"
+hoCA.title2 = "TO THE GLORIOUS VIRGIN MARTYR"
+hoCA.title3 = "HERMIONE"
+hoCA.poet = "Original Greek by Archimandrite Nikodemos G. Aeriakis"
+hoCA.translator = "Translated by the Sisters of the Holy Monastery of the Life-giving Spring"
+hoCA.Insert1 = "the holy and glorious virgin-martyr Hermione,"
+
+hoCA.media.text = "" // for complete music
+
+hoCA.Apolytikion1.mode = miscellanea_en_US_mlgs.misc.Mode4
+hoCA.Apolytikion1.melody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.incipit = "Let us all sing…"
+hoCA.Apolytikion1.text = "Let us all sing in praise of Saint Hermione, * the virgin martyr who inspires admiration. * She overcame the trials and proved dauntless in her faith. * At the time of martyrdom * Jesus filled her with courage: * He Himself appeared to her * in the form of her teacher. * She won the contest and was duly crowned, * and lives forever in glory and blessedness."
+
+hoCA.Apolytikion2.mode = miscellanea_en_US_mlgs.misc.Mode4
+hoCA.Apolytikion2.melody = he.a.m4_en_US_mlgs.heAU.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.incipit = "Let us, whose lives…"
+hoCA.Apolytikion2.text = "Let us, whose lives are troubled, run to take refuge * and pray sincerely to the true Theotokos: * O Lady, shelter all of us in your maternal care. * Fill our homes with peace and love, * by your grace, Virgin Mother. * Save us from the influence *of the passions and demons. * O Maiden full of grace, come to our aid. * You are our Mother, our safety, our guardian."
+
+hoCA.acrostic = ""
+
+hoCA.Ode11.ode = miscellanea_en_US_mlgs.misc.Ode1
+hoCA.Ode11.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode11.melody = he.h.m8_en_US_mlgs.heHE.YgranDiodefsas.name
+hoCA.Ode11.incipit = "With all of my heart…"
+hoCA.Ode11.text = "With all of my heart I ask to receive * the all-holy Spirit and the grace to sing fitting hymns * in praise of God’s holy virgin martyr, * the bride of Christ, Hermione, my champion."
+
+hoCA.Ode12.ode = miscellanea_en_US_mlgs.misc.Ode1
+hoCA.Ode12.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode12.melody = he.h.m8_en_US_mlgs.heHE.YgranDiodefsas.name
+hoCA.Ode12.incipit = "…"
+hoCA.Ode12.text = "Abandoning earthly and empty joys * for the love of Jesus, you gave everything to the poor, * without seeking honor or repayment, * and now you help those who honor your memory."
+
+hoCA.Ode13.ode = miscellanea_en_US_mlgs.misc.Ode1
+hoCA.Ode13.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode13.melody = he.h.m8_en_US_mlgs.heHE.YgranDiodefsas.name
+hoCA.Ode13.incipit = "…"
+hoCA.Ode13.text = "With hymns let us honor the bride of Christ. * Like garlands of flowers let us offer her songs of praise. * Her glorious martyrdom inspires us. * Her love for God gave her courage to die for Him."
+
+hoCA.Ode1T.ode = miscellanea_en_US_mlgs.misc.Ode1
+hoCA.Ode1T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode1T.melody = he.h.m8_en_US_mlgs.heHE.YgranDiodefsas.name
+hoCA.Ode1T.incipit = "…"
+hoCA.Ode1T.text = "You carried the Maker of all the world * within your pure body and gave birth to Him without pain. * Entreat Him for us who sing your praises. * Your prayers have power before our almighty God."
+
+hoCA.Ode31.ode = miscellanea_en_US_mlgs.misc.Ode3
+hoCA.Ode31.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode31.melody = he.h.m8_en_US_mlgs.heHE.OuraniasApsidos.name
+hoCA.Ode31.incipit = "By your words…"
+hoCA.Ode31.text = "By your words and your actions, you showed the world Jesus Christ. * Virgin Hermione, you gave help to those in suffering. * And for your selfless love * you were richly rewarded: * Christ Himself appeared to you during your martyrdom."
+
+hoCA.Ode32.ode = miscellanea_en_US_mlgs.misc.Ode3
+hoCA.Ode32.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode32.melody = he.h.m8_en_US_mlgs.heHE.OuraniasApsidos.name
+hoCA.Ode32.incipit = "…"
+hoCA.Ode32.text = "You dismissed as unlawful the godless ruler’s decrees. * By the Holy Spirit you triumphed, showing your bravery. * You saw your enemies * as being weaker than infants. * You proved that their tactics were feeble as spiders’ webs."
+
+hoCA.Ode33.ode = miscellanea_en_US_mlgs.misc.Ode3
+hoCA.Ode33.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode33.melody = he.h.m8_en_US_mlgs.heHE.OuraniasApsidos.name
+hoCA.Ode33.incipit = "…"
+hoCA.Ode33.text = "Hermione, great martyr, you so desired purity. * You saw earthly pleasures as fleeting, leaving great emptiness, * whereas sweet chastity * is of incomparable value. * So God filled your heart with love, joy, and abundant grace."
+
+hoCA.Ode3T.ode = miscellanea_en_US_mlgs.misc.Ode3
+hoCA.Ode3T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode3T.melody = he.h.m8_en_US_mlgs.heHE.OuraniasApsidos.name
+hoCA.Ode3T.incipit = "…"
+hoCA.Ode3T.text = "Grant your blessings, O Lady, to us who now sing your praise. * Pray to Christ our God for your servants who put their trust in you, * that He deliver us * from all affliction and sadness. * Comfort us, confirming our trust in His providence."
+
+hoCA.Troparion31.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Troparion31.melody = ""
+hoCA.Troparion31.incipit = "Preserve us all…"
+hoCA.Troparion31.text = "Preserve us all, * O Hermione, great martyr of Christ the Savior, * for He hears when you pray to Him * since you shed your blood for Him. * He gave you to us as an intercessor."
+
+hoCA.Troparion32.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Troparion32.melody = ""
+hoCA.Troparion32.incipit = "Fill our hearts…"
+hoCA.Troparion32.text = "Fill our hearts * with gifts of grace and the virtues, O all-praised Lady. * As your children, we run to you. * Protect us in your embrace, * for we have no hope aside from you, our sweet Mother."
+
+hoCA.Kathisma11.mode = miscellanea_en_US_mlgs.misc.Mode2
+hoCA.Kathisma11.melody = he.a.m2_en_US_mlgs.heAU.TaAnoZiton.name
+hoCA.Kathisma11.incipit = "Desiring Christ…"
+hoCA.Kathisma11.text = "Desiring Christ, preserving your virginity, * you asked Him to give you strength against the enemy. * Disdaining carnality, you subdued the passions triumphantly, * and like a virgin bride betrothed to Christ, * you celebrate with Him forevermore. "
+
+hoCA.Ode41.ode = miscellanea_en_US_mlgs.misc.Ode4
+hoCA.Ode41.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode41.melody = he.h.m8_en_US_mlgs.heHE.EisakikoaKyrie.name
+hoCA.Ode41.incipit = "Like a bird…"
+hoCA.Ode41.text = "Like a bird flying heavenward, * you were not weighed down by the cares of earthly life. * And disdaining what remains on earth, * you were granted riches in the heavens above."
+
+hoCA.Ode42.ode = miscellanea_en_US_mlgs.misc.Ode4
+hoCA.Ode42.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode42.melody = he.h.m8_en_US_mlgs.heHE.EisakikoaKyrie.name
+hoCA.Ode42.incipit = "…"
+hoCA.Ode42.text = "By your courage and faith in God, * you endured the torments and dreadful suffering. * You put down the tyrant’s haughtiness, * and you shamed the devil by your bravery."
+
+hoCA.Ode43.ode = miscellanea_en_US_mlgs.misc.Ode4
+hoCA.Ode43.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode43.melody = he.h.m8_en_US_mlgs.heHE.EisakikoaKyrie.name
+hoCA.Ode43.incipit = "…"
+hoCA.Ode43.text = "You became a pure dwelling place * of the Holy Spirit through your humility. * Out of love for God you died for Him. * By your contests, you attained a martyr’s crown."
+
+hoCA.Ode4T.ode = miscellanea_en_US_mlgs.misc.Ode4
+hoCA.Ode4T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode4T.melody = he.h.m8_en_US_mlgs.heHE.EisakikoaKyrie.name
+hoCA.Ode4T.incipit = "…"
+hoCA.Ode4T.text = "Ever-blest and immaculate * Mother of our God and of all who believe in Him, * ask your Son to pour His grace on us, * that we may escape the devil’s trickery."
+
+hoCA.Ode51.ode = miscellanea_en_US_mlgs.misc.Ode5
+hoCA.Ode51.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode51.melody = he.h.m8_en_US_mlgs.heHE.FotisonImas.name
+hoCA.Ode51.incipit = "Smitten with desire…"
+hoCA.Ode51.text = "Smitten with desire * for your Savior, virgin bride of Christ, * you remained a virgin all throughout your life, * O sacred treasure of virgins and rock of purity."
+
+hoCA.Ode52.ode = miscellanea_en_US_mlgs.misc.Ode5
+hoCA.Ode52.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode52.melody = he.h.m8_en_US_mlgs.heHE.FotisonImas.name
+hoCA.Ode52.incipit = "…"
+hoCA.Ode52.text = "I ask to receive * consolation for my weary soul, * which is beaten by the storms and trials of life. * When you entreat our God, please offer up my prayer to Him."
+
+hoCA.Ode53.ode = miscellanea_en_US_mlgs.misc.Ode5
+hoCA.Ode53.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode53.melody = he.h.m8_en_US_mlgs.heHE.FotisonImas.name
+hoCA.Ode53.incipit = "…"
+hoCA.Ode53.text = "Pray to Jesus Christ, * who benevolently hears our prayers. * O Hermione, intercede on my behalf, * to give me joy from heaven, patience and strength of soul."
+
+hoCA.Ode5T.ode = miscellanea_en_US_mlgs.misc.Ode5
+hoCA.Ode5T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode5T.melody = he.h.m8_en_US_mlgs.heHE.FotisonImas.name
+hoCA.Ode5T.incipit = "…"
+hoCA.Ode5T.text = "When our Savior came * to the earth to save humanity, * He chose you above all others, as most pure. * In your arms you held the One who holds the world in His hand."
+
+hoCA.Ode61.ode = miscellanea_en_US_mlgs.misc.Ode6
+hoCA.Ode61.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode61.melody = he.h.m8_en_US_mlgs.heHE.TinDeisinEkcheo.name
+hoCA.Ode61.incipit = "Victorious, as a martyr…"
+hoCA.Ode61.text = "Victorious, * as a martyr loved by God, * you were crowned by Him, the Judge of the contest. * And now you dance with the saints in His Kingdom, * where there is joy without end, and the sun never sets. * So pray for us who live on earth. * Make us worthy to share in your blessedness."
+
+hoCA.Ode62.ode = miscellanea_en_US_mlgs.misc.Ode6
+hoCA.Ode62.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode62.melody = he.h.m8_en_US_mlgs.heHE.TinDeisinEkcheo.name
+hoCA.Ode62.incipit = "…"
+hoCA.Ode62.text = "You ridiculed * all the folly of the world. * Splendid miracles supported your preaching. * You drew the souls of the sinful to knowledge * of the salvation that Christ offers everyone. * I beg you now to intercede * that I also may grow in my faith in God."
+
+hoCA.Ode63.ode = miscellanea_en_US_mlgs.misc.Ode6
+hoCA.Ode63.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode63.melody = he.h.m8_en_US_mlgs.heHE.TinDeisinEkcheo.name
+hoCA.Ode63.incipit = "…"
+hoCA.Ode63.text = "My soul is sick; * I am full of emptiness, * always wounded by my passions and failures. * The storms of life leave me lost and despondent. * Oh, how I long to find rest there in Paradise! * Please pray to God to grant me peace. * Hermione, entreat Him to save my soul."
+
+hoCA.Ode6T.ode = miscellanea_en_US_mlgs.misc.Ode6
+hoCA.Ode6T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode6T.melody = he.h.m8_en_US_mlgs.heHE.TinDeisinEkcheo.name
+hoCA.Ode6T.incipit = "…"
+hoCA.Ode6T.text = "Our Savior Christ * dwelt within your holy womb, * inexplicably, O pure Virgin Mother. * In your embrace you caressed God incarnate, * and He was breastfed by you in His infancy. * Now pray to Him on our behalf. * No one else is as close as you are to Him."
+
+hoCA.Troparion61.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Troparion61.melody = ""
+hoCA.Troparion61.incipit = other.sthermioneparaklesis_en_US_mlgs.hoCA.Troparion31.incipit
+hoCA.Troparion61.text = other.sthermioneparaklesis_en_US_mlgs.hoCA.Troparion31.text
+
+hoCA.Troparion62.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Troparion62.melody = ""
+hoCA.Troparion62.incipit = other.sthermioneparaklesis_en_US_mlgs.hoCA.Troparion32.incipit
+hoCA.Troparion62.text = other.sthermioneparaklesis_en_US_mlgs.hoCA.Troparion32.text
+
+hoCA.Kontakion.mode = miscellanea_en_US_mlgs.misc.Mode2
+hoCA.Kontakion.melody = ""
+hoCA.Kontakion.incipit = "Hermione, you are a model…"
+hoCA.Kontakion.text = "Hermione, you are a model of bravery, * in your contests for Jesus you left us a prototype, * as a virgin you are a bright example to us all. * And now, standing near the throne of Christ, * do not forget to intercede * for your servants who sing this hymn. * Ask Him to grant forgiveness * and peace in the Holy Spirit * to every sufferer in need, * Hermione, through your fervent prayers."
+
+hoCA.PostGospelHymn1.mode = miscellanea_en_US_mlgs.misc.Mode6
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_mlgs.heAU.OlinApothemenoi.name
+hoCA.PostGospelHymn1.incipit = "Let us all the faithful…"
+hoCA.PostGospelHymn1.text = "Let us all the faithful now honor the glorious martyr, * Hermione, who received * from God gifts of prophecy and healing and cures. * Let us weave her a crown with hymns as with flowers. * As a bride of Christ, she followed Him, * forsaking earthly joys, renouncing the world and its vanity. * Her holy life and miracles * verify the truth of our Christian faith. * Daughter of the Deacon Apostle Philip, she has proved to be * a great example of chastity, a witness for Christ our God."
+
+hoCA.Ode71.ode = miscellanea_en_US_mlgs.misc.Ode7
+hoCA.Ode71.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode71.melody = he.h.m8_en_US_mlgs.heHE.OiEkTisIoudaias.name
+hoCA.Ode71.incipit = "We behold the great…"
+hoCA.Ode71.text = "We behold the great martyr, * Hermione, in heaven, wearing a brilliant crown. * She stands with all the martyrs, * unceasingly extolling * Jesus Christ, her beloved Lord, * and singing, “Blessed are You the God of our fathers!”"
+
+hoCA.Ode72.ode = miscellanea_en_US_mlgs.misc.Ode7
+hoCA.Ode72.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode72.melody = he.h.m8_en_US_mlgs.heHE.OiEkTisIoudaias.name
+hoCA.Ode72.incipit = "…"
+hoCA.Ode72.text = "At the time of her contest, * Hermione proclaimed unto all the Trinity. * Her miracles bore witness * to Father, Son, and Spirit, * whom she worshiped and glorified, * exclaiming, “Blessed are You the God of our fathers!”"
+
+hoCA.Ode73.ode = miscellanea_en_US_mlgs.misc.Ode7
+hoCA.Ode73.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode73.melody = he.h.m8_en_US_mlgs.heHE.OiEkTisIoudaias.name
+hoCA.Ode73.incipit = "…"
+hoCA.Ode73.text = "In her struggles, triumphant, * in virginity, blameless, * in preaching, full of grace, * a victor in temptation, * a champion of virtue, * Hermione unceasingly * was singing, “Blessed are You the God of our fathers!”"
+
+hoCA.Ode7T.ode = miscellanea_en_US_mlgs.misc.Ode7
+hoCA.Ode7T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode7T.melody = he.h.m8_en_US_mlgs.heHE.OiEkTisIoudaias.name
+hoCA.Ode7T.incipit = "…"
+hoCA.Ode7T.text = "O all-pure Theotokos, * virgin Mother of God, you gave birth unto the Light. * Through you He has illumined * believers with the sunshine * of salvation to sing to Him, * the anthem, “Blessed are You the God of our fathers!”"
+
+hoCA.Ode81.ode = miscellanea_en_US_mlgs.misc.Ode8
+hoCA.Ode81.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode81.melody = he.h.m8_en_US_mlgs.heHE.TonVasileaTonOuranon.name
+hoCA.Ode81.incipit = "Betrothed to Jesus…"
+hoCA.Ode81.text = "Betrothed to Jesus, * Saint Hermione lived chastely, * thus preparing her soul for her Bridegroom. * Now with Him in heaven, she praises Him forever."
+
+hoCA.Ode82.ode = miscellanea_en_US_mlgs.misc.Ode8
+hoCA.Ode82.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode82.melody = he.h.m8_en_US_mlgs.heHE.TonVasileaTonOuranon.name
+hoCA.Ode82.incipit = "…"
+hoCA.Ode82.text = "Having received strength * from the Lord to bear witness, * Hermione with boldness confessed Him. * Now she stands in triumph, and praises Him forever."
+
+hoCA.Ode83.ode = miscellanea_en_US_mlgs.misc.Ode8
+hoCA.Ode83.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode83.melody = he.h.m8_en_US_mlgs.heHE.TonVasileaTonOuranon.name
+hoCA.Ode83.incipit = "…"
+hoCA.Ode83.text = "Bravely confessing * the Holy Trinity’s power, * Hermione now rests from her labors, * with the saints in heaven, and praises God forever."
+
+hoCA.Ode8T.ode = miscellanea_en_US_mlgs.misc.Ode8
+hoCA.Ode8T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode8T.melody = he.h.m8_en_US_mlgs.heHE.TonVasileaTonOuranon.name
+hoCA.Ode8T.incipit = "…"
+hoCA.Ode8T.text = "Pure Virgin Mother, * you are more spacious than heaven, * for your womb held the Logos incarnate. * We shall all extol Him and sing His praise forever."
+
+hoCA.Ode91.ode = miscellanea_en_US_mlgs.misc.Ode9
+hoCA.Ode91.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode91.melody = he.h.m8_en_US_mlgs.heHE.KyriosTheotokon.name
+hoCA.Ode91.incipit = "Your martyr Hermione…"
+hoCA.Ode91.text = "Your martyr Hermione * testified with boldness * that You, O Christ, are Creator and Master of all. * And you rewarded her richly with heaven’s blessedness."
+
+hoCA.Ode92.ode = miscellanea_en_US_mlgs.misc.Ode9
+hoCA.Ode92.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode92.melody = he.h.m8_en_US_mlgs.heHE.KyriosTheotokon.name
+hoCA.Ode92.incipit = "…"
+hoCA.Ode92.text = "Delights and worldly pleasures * were to her like refuse. * The joys of marriage did not hold a claim on her heart, * since Hermione was wholly consumed by love for Christ."
+
+hoCA.Ode93.ode = miscellanea_en_US_mlgs.misc.Ode9
+hoCA.Ode93.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode93.melody = he.h.m8_en_US_mlgs.heHE.KyriosTheotokon.name
+hoCA.Ode93.incipit = "…"
+hoCA.Ode93.text = "Please give me of your riches. * You have an abundance, * and I am poor and bereft of all virtues and gifts. * Grant me to share in your ardor for God and selfless love."
+
+hoCA.Ode94.ode = miscellanea_en_US_mlgs.misc.Ode9
+hoCA.Ode94.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode94.melody = he.h.m8_en_US_mlgs.heHE.KyriosTheotokon.name
+hoCA.Ode94.incipit = "…"
+hoCA.Ode94.text = "We have you as a model * guiding us who struggle, * for we are drowning in passions, and sins weigh us down. * We look to you as a beacon of godly chastity."
+
+hoCA.Ode9T.ode = miscellanea_en_US_mlgs.misc.Ode9
+hoCA.Ode9T.mode = miscellanea_en_US_mlgs.misc.Mode8
+hoCA.Ode9T.melody = he.h.m8_en_US_mlgs.heHE.KyriosTheotokon.name
+hoCA.Ode9T.incipit = "…"
+hoCA.Ode9T.text = "With joy let us all sing now * to our holy Mother, * our strong defender, who shelters and comforts us, * the joy of angels, the glory of all humanity."
+
+hoCA.Meg01.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.melody
+hoCA.Meg01.incipit = he.h.m6_en_US_mlgs.heHE.TinTimioteran.incipit
+hoCA.Meg01.text = he.h.m6_en_US_mlgs.heHE.TinTimioteran.text
+hoCA.Meg02.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg02.incipit = "…"
+hoCA.Meg02.text = "Come and let us joyfully sing in praise * of Christ’s holy martyr, Hermione, our pride and joy, * protectress of believers,encourager of virgins, * a constant intercessor praying to God for us."
+hoCA.Meg03.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg03.incipit = "…"
+hoCA.Meg03.text = "Let us render honor where it is due, * to her who contested for the glory of Jesus Christ. * He Himself has crowned her and greatly glorified her * for bravely bearing witness and honoring His name."
+hoCA.Meg04.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg04.incipit = "…"
+hoCA.Meg04.text = "Let us praise the flower of self-control, * the wise Hermione, * the adornment of holy souls. * By enduring torture she showed her great fervor. * She left us an example of pure and selfless love."
+hoCA.Meg05.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg05.incipit = "…"
+hoCA.Meg05.text = "Rejoice, holy martyr and virgins’ joy! * Rejoice, Hermione, for your virtues fill us with awe. * You taught by example the message of the Gospel. * You cured both souls and bodies and showed us the path to life. "
+hoCA.Meg06.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg06.incipit = "…"
+hoCA.Meg06.text = "Now you rest in heaven with all the saints * and the hosts of Angels, singing praises forevermore, * with Philip the Deacon, your father and your teacher, * together with your holy sisters who prophesied."
+hoCA.Meg07.melody = he.h.m6_en_US_mlgs.heHE.TinTimioteran.name
+hoCA.Meg07.incipit = "…"
+hoCA.Meg07.text = "Since you won the struggle against the flesh, * shelter from temptations every virgin who lives for God. * Guard the youth from dangers, preserve them from corruption, * and teach those who are married devotion and self-control."
+
+hoCA.Apolytikion3.mode = miscellanea_en_US_mlgs.misc.Mode3
+hoCA.Apolytikion3.melody = he.a.m3_en_US_mlgs.heAU.TheiasPisteos.name
+hoCA.Apolytikion3.incipit = "Let us crown…"
+hoCA.Apolytikion3.text = "Let us crown with hymns the virgin Martyr * who was redolent with God’s aroma. * She gave everything she had for her Bridegroom, Christ, * not only dying for Him, but throughout her life, * as an apostle and healer and prophetess. * Hermione, intercede for us all who sing to you. * You glorified the Lord, and He glorified you."
+
+hoCA.Troparion1.mode = miscellanea_en_US_mlgs.misc.Mode2
+hoCA.Troparion1.melody = he.a.m2_en_US_mlgs.heAU.OteEkTouXylou.name
+hoCA.Troparion1.incipit = "Come all…"
+hoCA.Troparion1.text = "Come all, with contrite and humble heart, * let us honor Saint Hermione, the bride and martyr of Christ. * Let us praise her miracles with sacred poems and hymns. * She preached faith in the Trinity and life everlasting. * In the midst of pagans she shone forth the light of Christ. * Slaughtered like a lamb for her Maker, * who has placed her soul with the righteous, * joyfully she sings with Angels evermore. "
